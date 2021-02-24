@@ -1,0 +1,12 @@
+name: ItemPlus
+version: 1.0
+author: Rapturr
+main: com.rapturr.itemplus.ItemPlus
+api-version: 1.16
+commands:
+  giveitems:
+    description: Gives Items
+    usage: /<command>
+  buyitems:
+    description: Buy Items
+    usage: /<command>

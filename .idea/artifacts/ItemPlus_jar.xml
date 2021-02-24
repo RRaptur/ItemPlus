@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ItemPlus:jar">
+    <output-path>$PROJECT_DIR$/../Server/plugins</output-path>
+    <root id="archive" name="ItemPlus.jar">
+      <element id="module-output" name="ItemPlus" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Dependencies/spigot-api-1.16.5-R0.1-20210116.022809-2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
